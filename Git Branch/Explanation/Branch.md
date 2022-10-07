@@ -1,0 +1,5 @@
+Melihat Branch Saat ini 
+
+- Secara default, Git pasti akan membuat branch utama, biasanya master atau main 
+- Untuk melihat nama branch saat ini, kita bisa gunakan perintah :
+  git branch -- show-current
