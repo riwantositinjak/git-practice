@@ -1,0 +1,5 @@
+Multiple Branch
+
+- Pada kenyataannya, saat membuat aplikasi, branch biasanya akan dibuat banyak sekali
+- Git mendukung multiple branch, artinya sebanyak apapun branch yang kita buat, Git bisa
+  menanganinya dengan baik
